@@ -1,0 +1,18 @@
+Node JS Project setup
+-------------------------
+1) Project setup
+2) Route setup - public , private
+3) Middleware setup
+4) Validation setup
+5) Cache setup
+6) Rate limiter
+7) Request and response handling 
+
+
+1) Project setup command 
+npm init -y
+npx tsc --init
+
+npm i express
+npm i -D @types/express
+

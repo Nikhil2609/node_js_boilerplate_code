@@ -1,9 +1,8 @@
 ## Getting Started
 
-Start project
--> npm install
--> npm run start
--> npm run prisma:deploy
+1. npm install
+2. npm run start
+3. npm run prisma:deploy
 
 ## Node JS Boilerplate code
 
